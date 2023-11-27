@@ -1,0 +1,13 @@
+/* Global styles for body element */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+/* Styling for code elements */
+code {
+  font-family: Arial, sans-serif, monospace;
+  background-color: #f3f3f3;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
